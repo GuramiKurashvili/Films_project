@@ -1,0 +1,42 @@
+C:\Users\LENOVO\Desktop\Films_project\Films_project\bin\Debug\Films_project.exe.config
+C:\Users\LENOVO\Desktop\Films_project\Films_project\bin\Debug\Films_project.exe
+C:\Users\LENOVO\Desktop\Films_project\Films_project\bin\Debug\Films_project.pdb
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.exe
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.pdb
+C:\Users\LENOVO\Desktop\Films_project\Films_project\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\Films_project\Films_project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\Films_project\Films_project\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\Films_project\Films_project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.feedbk.resources
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.insert.resources
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.Main.resources
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.LogIn.resources
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.Registration.resources
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.delete.resources
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.insert.resources
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.LogIn.resources
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.Main.resources
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.feedbk.resources
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.Registration.resources
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.exe
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.pdb
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\bin\Debug\Films_project.exe.config
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\bin\Debug\Films_project.exe
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\bin\Debug\Films_project.pdb
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\New folder\Films_project\Films_project\obj\Debug\Films_project.Feedbacks.resources
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.Feedbacks.resources
+C:\Users\LENOVO\Desktop\Films_project\Films_project\obj\Debug\Films_project.Update.resources
